@@ -11,5 +11,7 @@ This is my personal Android mini project that I have built as my final project f
 - [AlarmManager](https://developer.android.com/reference/android/app/AlarmManager) and [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver) to schedule notification timings
 
 ## Resources and References Used
-- RecyclerView with CardView
--- df
+- RecyclerView with CardView: 
+
+[developer's guide](https://developer.android.com/guide/topics/ui/layout/cardview.html)
+
