@@ -9,8 +9,4 @@ This is my personal Android mini project that I have built as my final project f
 - Internal [Itents](https://developer.android.com/reference/android/content/Intent) with [Buttons](https://developer.android.com/reference/android/widget/Button): [sending data back to MainActivity](https://developer.android.com/reference/android/app/Activity.html#startActivityForResult(android.content.Intent,%20int))
 - [Notifications](https://developer.android.com/reference/android/app/Notification): [creating a Notification](https://developer.android.com/training/notify-user/build-notification)
 - [NotificationChannel](https://developer.android.com/reference/android/app/NotificationChannel): [create a NotificationChannel](https://developer.android.com/training/notify-user/channels)
-- [AlarmManager](https://developer.android.com/reference/android/app/AlarmManager) and [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver) to schedule notification timings: [
-
-## Resources and References Used
-- RecyclerView with CardView: 
-- Swipe Actions on Re
+- [AlarmManager](https://developer.android.com/reference/android/app/AlarmManager) and [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver) to schedule notification timings: [Github Gist example](https://gist.github.com/BrandonSmith/6679223)
