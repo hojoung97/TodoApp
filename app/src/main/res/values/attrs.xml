@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DayViewGroup">
+        <attr name="eachRowHeight" format="dimension"/>
+        <attr name="rowNum" format="integer"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="dividerTextColor" format="color"/>
+        <attr name="dividerTitles"/>
+        <attr name="dividerStartTime" format="integer"/>
+        <attr name="minPercentage" format="float"/>
+    </declare-styleable>
+</resources>
