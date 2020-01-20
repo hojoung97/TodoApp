@@ -4,7 +4,7 @@ This is my personal Android mini project that I have built as my final project f
 I made a simple app that can track things to do. Users can add and delete number of things that need to be finished and managed.
 
 ## Quick Peek
-![demo](readme_images/androidDemo.gif){:height="50%" width="50%"}
+![demo](readme_images/androidDemo.gif){:height="100px" width="100px"}
 
 ## Components of the App along with References Used
 - [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView) with [CardView](https://developer.android.com/reference/androidx/cardview/widget/CardView): [developer's guide](https://developer.android.com/guide/topics/ui/layout/cardview.html)
