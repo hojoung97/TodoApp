@@ -3,6 +3,9 @@ This is my personal Android mini project that I have built as my final project f
 
 I made a simple app that can track things to do. Users can add and delete number of things that need to be finished and managed.
 
+## Quick Peek
+![demo](readme_images/androidDemo.gif)
+
 ## Components of the App along with References Used
 - [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView) with [CardView](https://developer.android.com/reference/androidx/cardview/widget/CardView): [developer's guide](https://developer.android.com/guide/topics/ui/layout/cardview.html)
 - Swipe Actions on RecyclerView Items: [blog reference](https://codeburst.io/android-swipe-menu-with-recyclerview-8f28a235ff28)
