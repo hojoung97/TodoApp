@@ -9,3 +9,7 @@ This is my personal Android mini project that I have built as my final project f
 - Internal [Itents](https://developer.android.com/reference/android/content/Intent) with [Buttons](https://developer.android.com/reference/android/widget/Button)
 - [Notifications](https://developer.android.com/reference/android/app/Notification)
 - [AlarmManager](https://developer.android.com/reference/android/app/AlarmManager) and [BroadcastReceiver](https://developer.android.com/reference/android/content/BroadcastReceiver) to schedule notification timings
+
+## Resources and References Used
+- RecyclerView with CardView
+-- df
